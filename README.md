@@ -11,7 +11,7 @@ Week 2 Module (17/06/2026)
 # Language
 - C++
 
-#  Files
+##  Files
 - week2.pdf
 - linearSearch.cpp
 - binarySearch.cpp
